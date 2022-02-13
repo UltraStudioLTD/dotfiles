@@ -1,0 +1,30 @@
+[submodule ".vim/plugged/auto-pairs"]
+	path = .vim/plugged/auto-pairs
+	url = ./.vim/plugged/auto-pairs
+[submodule ".vim/plugged/fzf"]
+	path = .vim/plugged/fzf
+	url = ./.vim/plugged/fzf
+[submodule ".vim/plugged/fzf.vim"]
+	path = .vim/plugged/fzf.vim
+	url = ./.vim/plugged/fzf.vim
+[submodule ".vim/plugged/nerdtree"]
+	path = .vim/plugged/nerdtree
+	url = ./.vim/plugged/nerdtree
+[submodule ".vim/plugged/python-mode"]
+	path = .vim/plugged/python-mode
+	url = ./.vim/plugged/python-mode
+[submodule ".vim/plugged/vim-airline"]
+	path = .vim/plugged/vim-airline
+	url = ./.vim/plugged/vim-airline
+[submodule ".vim/plugged/vim-closetag"]
+	path = .vim/plugged/vim-closetag
+	url = ./.vim/plugged/vim-closetag
+[submodule ".vim/plugged/vim-devicons"]
+	path = .vim/plugged/vim-devicons
+	url = ./.vim/plugged/vim-devicons
+[submodule ".vim/plugged/vim-nerdtree-syntax-highlight"]
+	path = .vim/plugged/vim-nerdtree-syntax-highlight
+	url = ./.vim/plugged/vim-nerdtree-syntax-highlight
+[submodule ".vim/plugged/vimspector"]
+	path = .vim/plugged/vimspector
+	url = ./.vim/plugged/vimspector
