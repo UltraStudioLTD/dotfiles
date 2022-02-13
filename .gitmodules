@@ -28,3 +28,6 @@
 [submodule ".vim/plugged/vimspector"]
 	path = .vim/plugged/vimspector
 	url = ./.vim/plugged/vimspector
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = ./.oh-my-zsh
